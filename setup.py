@@ -9,7 +9,7 @@ setup(
         'tqdm==4.66.2',
         'PyQt5==5.15.10',
     ],
-    python_requires='>=3.12.3',
+    python_requires='>=3.12',
     author='CLEMENT Pierre',
     author_email='pierraored@gmail.com',
     description='Use Shazam to find the musics title and author to copy files with the name in a folder.',
